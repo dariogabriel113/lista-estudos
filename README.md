@@ -3,7 +3,7 @@
 ### GraphQL
  Título | Tipo  | Idioma | Check
 ------- | ------  | ------ | ------
-[A GraphQL Primer: Why We Need A New Kind Of API (Part 1)](https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-1/) | Artigo | 🇱🇷 | 
+[A GraphQL Primer: Why We Need A New Kind Of API (Part 1)](https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-1/) | Artigo | 🇱🇷 | :heavy_check_mark:
 [A GraphQL Primer: The Evolution Of API Design (Part 2)](https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-2/) | Artigo | 🇱🇷 | 
 
 
