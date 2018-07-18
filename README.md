@@ -1,4 +1,4 @@
-# Lista de cursos e tutoriais
+# Lista pessoal de estudos
 
 ### GraphQL
  Título | Tipo  | Idioma
