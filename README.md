@@ -14,6 +14,7 @@
 [Reflections on the REST Architectural Style and “Principled Design of the Modern Web Architecture”](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46310.pdf) | Artigo Científico | 🇱🇷 | 
 [What is REST](https://restfulapi.net/) | Documentação | 🇱🇷 | :heavy_check_mark:
 [Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) | Artigo Científico | 🇱🇷 | 
+[REST Architectural Constraints](https://restfulapi.net/rest-architectural-constraints/) | Documentação | 🇱🇷 | 
 
 ### React
  Título | Tipo  | Idioma | Check
