@@ -15,6 +15,8 @@
 [What is REST](https://restfulapi.net/) | Documentação | 🇱🇷 | :heavy_check_mark:
 [Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) | Artigo Científico | 🇱🇷 | 
 [REST Architectural Constraints](https://restfulapi.net/rest-architectural-constraints/) | Documentação | 🇱🇷 | 
+[REST APIs must be hypertext-driven](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven) | Artigo | 🇱🇷 | 
+
 
 ### React
  Título | Tipo  | Idioma | Check
