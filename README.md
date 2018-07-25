@@ -21,7 +21,7 @@
 ### gRPC
  Título | Tipo  | Idioma | Check
 ------- | ------  | ------ | ------
-[What is gRPC?](https://grpc.io/docs/guides/index.html) | Documentação | 🇱🇷 | 
+[What is gRPC?](https://grpc.io/docs/guides/index.html) | Documentação | 🇱🇷 | :heavy_check_mark:
 
 
 ### React
