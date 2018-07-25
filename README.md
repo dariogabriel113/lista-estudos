@@ -24,11 +24,8 @@
 [What is gRPC?](https://grpc.io/docs/guides/index.html) | Documentação | 🇱🇷 | :heavy_check_mark:
 
 
-### React
- Título | Tipo  | Idioma | Check
-------- | ------  | ------ | ------
-[Codecademy - Learn ReactJS: Part I](https://www.codecademy.com/learn/react-101) | Curso | 🇱🇷 | 
-[Codecademy - Learn ReactJS: Part II](https://www.codecademy.com/learn/react-102) | Curso | 🇱🇷 | 
+### [Lista React](https://github.com/dariogabriel113/lista-estudos/blob/master/lista-react.md) 
+
 
 
 Lista inspirada em [GraphQLBr - Links para estudo](https://github.com/GraphQLBr/links-para-estudo)
