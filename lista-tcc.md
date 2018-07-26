@@ -20,3 +20,4 @@
  Título | Tipo  | Idioma | Check
 ------- | ------  | ------ | ------
 [What is gRPC?](https://grpc.io/docs/guides/index.html) | Documentação | 🇱🇷 | :heavy_check_mark:
+[gRPC Concepts](https://grpc.io/docs/guides/concepts.html) | Documentação | 🇱🇷 | 
